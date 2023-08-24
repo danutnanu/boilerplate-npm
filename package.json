@@ -6,8 +6,7 @@
 	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-	 "dependency1": "^major.minor.patch"
-   
+		"package":"1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
